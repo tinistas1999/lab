@@ -1,0 +1,23 @@
+ul{
+  list-style: none;
+}
+@import url('https://fonts.googleapis.com/css?family=Sofia');
+*{
+  background-color: blanchedalmond;
+  color: darkmagenta;
+  font-family: "Arial Black";
+}
+
+
+button{
+  border-radius: 3px;
+  background-color: blueviolet;
+  transition-duration: 1s;
+  width: 180px;
+
+}
+
+button:hover{
+  background-color: darkmagenta;
+
+}
